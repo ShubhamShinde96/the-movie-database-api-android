@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Movie Database</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="artists">Artists</string>
+    <string name="update_txt">Update</string>
+    <string name="movie_image">Movie Image</string>
+</resources>
